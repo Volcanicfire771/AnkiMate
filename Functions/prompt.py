@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv('API_KEY')
 
 
 client = genai.Client(api_key=API_KEY)
@@ -20,11 +20,14 @@ def prompt(data):
                 Q: [Question]
                 A: [Answer]
 
+                $$$
                 Flashcard 2:
                 Q: [Question]
                 A: [Answer]
 
+                $$$
                 ...
+                
                 text: \n{data}
                """,
     )
