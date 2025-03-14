@@ -1,0 +1,8 @@
+# Ignore API key file
+.env
+
+# Ignore unnecessary files
+*.log
+__pycache__/
+env/
+*.pdf

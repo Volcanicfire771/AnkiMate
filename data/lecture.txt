@@ -1,0 +1,236 @@
+UNR 1601
+Climate Change and Water Management
+Ch [02] –Climate Change
+Dr. Ayman Mohamed Hamza
+Construction & Building Engineering Department, Faculty of Engineering and Technology, 
+AASTMT, Cairo Campus
+Arab Academy for Science, Technology, and Maritime Transport (AASTMT) 
+Cairo Campus
+College of Computing and Information
+Climate Variability
+•Climate variability refers tovariations inthe mean state and
+other statistics (such astheoccurrence ofextremes, etc.)ofthe
+climate onalltemporal and spatial scales beyond that of
+individual weather events .
+•Variability may bedue to
+(internal variability ):natural internal processes within theclimate
+system
+orto(external variability ):variations innatural oranthropogenic
+external forcing
+2What is climate change?
+•Climate change is
+achange inthepattern ofweather ,
+and related changes inoceans, land
+surfaces and icesheets, that have come to
+define Earth’slocal, regional and global
+climates and occurring over time scales of
+decades orlonger .
+3
+Energy Balance
+The temperature ofthe Earth isdetermined byabalance ofthe energy
+entering the Earth–atmosphere system and the energy leaving the
+system .
+Global energy balance (GEB):
+Earth's stored energy =
+Energy the earth receives from the Sun -Energy the earth 
+releases to space .
+4
+The greenhouse effect
+Greenhouse gases in the
+atmosphere, including water
+vapour ,carbon dioxide ,methane ,
+and nitrous oxide ,absorb heat
+energy and emit itinalldirections
+(including downwards), keeping
+Earth’s surface and lower
+atmosphere warm .
+Adding more greenhouse gases to
+the atmosphere enhances the
+effect, making Earth’ssurface and
+lower atmosphere even warmer .
+5
+Climate Forcing
+•Any process oractivity that influences theGEP either by
+increasing ordecreasing theearth’sstored energy contributes
+toclimate change andisqualified tobecalled aclimate forcing
+process .
+6•Climate forcing asanimbalance
+inenergy atthetopoftheEarth's
+atmosphere either externally or
+byhuman activities .
+Climate Forcing
+Climate forcing processes are classified as:
+•Internal Climate Forcing Processes -processes
+operating ontheGEB from within theearth .
+•External Climate Forcing Processes -processes
+operating ontheGEB from outside theearth .
+7
+Climate Change
+Climate 
+Change
+Anthropogenic 
+causes Natural cause You can edit this text
+EarthYou can edit this text
+Global temperatureThe internal and external climate forcing processes except theman-made
+processes aregrouped together asnatural causes ofclimate change .
+8External Climate Forcing Processes
+1-Variations in the amount of energy received from the sun .
+2-Variations in the earth’s orbit around the sun .
+9
+Internal Climate Forcing Processes
+1. Oceans
+2. Continental Drift
+3. Atmosphere
+4. Water Cycle
+5. Clouds
+6. Ice and Snow
+7. Land Surfaces
+8. V olcanic Eruptions
+9. Human Causes
+10Internal Climate Forcing Processes
+1. Oceans
+•Oceans are the key source of moisture in the air through interactions with 
+the atmosphere. 
+•Oceans also store heat efficiently , transporting it thousands of miles thus 
+redistributing heat in time and space . 
+•The oceans and marine life also consume huge amounts of carbon dioxide . 
+These ocean -based processes exert tremendous influence on global climate 
+and accounts for the variations.
+11
+Internal Climate Forcing Processes
+2. Continental Drift
+Scientists believe thatourearth isstillslowly drifting andconstantly changing .
+This constant drifting isbelieve tohave impact ontheclimate because itchanges
+thephysical features ofthelandmass ,their position andtheposition ofwater
+bodies .
+The separation ofthelandmasses changed theflow ofocean currents and
+winds, which affects theclimate .
+12
+Internal Climate Forcing Processes
+3. Atmosphere
+•Theatmosphere stores alotofheat orenergy which comes from thesun.This
+energy regulates theearth's climate .
+•Theatmosphere composes ofsmall particles and several gases outofwhich are
+thegreen house gases (GHGs) thatstore heat.The small particles (aerosols)
+tend toblock sunlight reaching theearth .
+4. Water Cycle
+•Higher air temperatures can increase water evaporation and melting of ice .
+•Water vapour is the most potent greenhouse gas .
+•Clouds also affect evaporation, creating a cooling effect .
+13Internal Climate Forcing Processes
+5. Clouds
+•Clouds reflect solar energy (cooling the earth) and thereby trapping heat 
+being radiated up from the surface (warming the earth). 
+•Clouds variability contribute to climate change.
+6. Ice and Snow
+•The whiteness of ice and snow reflects heat out , cooling the planet. 
+•When ice melts into the sea , this drives heat from the ocean causing 
+variability in climate .
+14Internal Climate Forcing Processes
+7. Land Surfaces
+•Mountain ranges can block clouds , creating "dry" shadows downwind.
+•Sloping land allows more water runoff , leaving the land and air drier. 
+•A tropical forest will soak up carbon dioxide , but once cleared for cattle 
+ranching, the same land becomes a source of methane, a greenhouse gas.
+8. Volcanic Eruptions
+•Avolcanic eruption emits large volumes ofsulphur dioxide (SO2),water
+vapour ,dust, andashintotheatmosphere thatinfluence climatic patterns for
+years .The gases anddust particles partially block theincoming rays ofthe
+sun, leading tocooling .
+15
+This is a sample text. 
+Insert your desired text 
+here. Greenhouse gasesThis is a sample text. Insert 
+your desired text here. Air pollution
+This is a sample text. Insert 
+your desired text here. DeforestationCoal mining
+Industrial processesInternal Climate Forcing Processes
+9. Anthropogenic or human causes
+16Main indicators of climate change ( 10 )
+17
+Evidence of Climate Change
+Climate records show a warming trend .
+18
+•Earth’sglobal average surface
+temperature hasrisen ,asshown
+inthis plot ofcombined land and
+ocean measurements from 1850 to
+2019 derived from three
+independent analyses of the
+available data sets.
+•The temperature changes are 
+relative to the global average 
+surface temperature, averaged 
+from 1961−1990 .Evidence of Climate Change
+Climate records show a warming trend.
+19The climate system varies naturally from year toyear and from decade todecade .Tomake reliable
+inferences about human -induced climate change, multi -decadal and longer records are typically used .
+Calculating a“running average”over these longer timescales allows one tomore easily seelong -term trends .
+Fortheglobal average temperature fortheperiod 1850 -2019 (using thedata from theUKMet Office Hadley
+Centre relative tothe 1961 -90average) the plots show (top) the average and range ofuncertainty for
+annually averaged data ;(2ndplot) theannual average temperature forthetenyears centred onany given
+date ;(3rdplot) theequivalent picture for30-year ;and (4thplot) the60-year averages .
+Evidence of Climate Change
+•This warming isnot caused by
+theincrease insolar irradiance .
+20Evidence of Climate Change
+21
+Additional evidence of a warming trend can be 
+found in the dramatic decrease in the extent of 
+Arctic sea ice at its summer minimum (which 
+occurs in September), the decrease in June 
+snow cover in the Northern Hemisphere.Evidence of Climate Change
+Observations show that theglobal average sealevel hasrisen byabout 16cm
+since thelate 19thcentury .
+•Sea level isrising faster inrecent decades ;measurements from tide gauges (blue)
+and satellites (red) indicate that thebest estimate fortheaverage sealevel rise over
+thelastdecade iscentred on3.6mm peryear.
+22
+•The shaded area represents the sea
+level uncertainty, which has
+decreased asthe number ofgauge
+sites used incalculating the global
+averages and the number ofdata
+points have increasedEvidence of Climate Change
+23
+•Measurements ofatmospheric CO2since
+1958 from the Mauna Loa Observatory in
+Hawaii (black) and from theSouth Pole (red)
+show asteady annual increase in
+atmospheric CO2concentration .
+•The measurements are made atremote
+places likethese because they arenotgreatly
+influenced bylocal processes, sotherefore
+they are representative ofthe background
+atmosphere .
+•The small up-and-down saw-tooth pattern
+reflects seasonal changes inthe release and
+uptake ofCO2byplants .Evidence of Climate Change
+24Ocean Acidification
+AsCO2intheairhasincreased ,
+there has been anincrease in
+theCO2content ofthesurface
+ocean (upper box),and a
+decrease inthe seawater pH
+(lower box).
+Evidence of Climate Change
+Paleoclimatology data from natural sources like ice cores , tree rings , 
+corals , ocean and lake sediments that have enabled scientists to extend 
+the earth ’s climatic records back millions of years . 
+25
+Evidence of Climate Change
+26
+Consequences of climate change
+Changes in
+•Glaciers and ice sheets
+•Sea level change
+•Sea ice
+•Heavy rainfall across the globe
+•Extreme Drought
+•Decline in Crop productivity
+•Changes in ecosystems
+•Hurricanes
+•Rise in temperature
+•Acidification of seawater
+2728
+Thank You !
