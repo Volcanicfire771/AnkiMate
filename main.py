@@ -1,5 +1,11 @@
-from Functions.converter import pdf_to_text
-from Functions.prompt import prompt
+from scripts.converter import pdf_to_text
+from scripts.prompt import prompt
+from scripts.anki import add_flashcard, invoke
+from scripts.card import load_flashcards
+from tqdm import tqdm
+
+
+deck_name = input("Please enter the name of your deck: (Deck 1) ") or "Deck 1"
 
 # Converting PDF to text file
 pdf_path = "data/Lecture_02 _Climate Change.pdf"
@@ -32,4 +38,13 @@ def organize_flashcards(flashcard_string):
 
 
 flashcard_dict = organize_flashcards(flashcard_string)
-# print(flashcard_dict)
+invoke('createDeck', deck=deck_name)
+flash_cards = load_flashcards(flashcard_dict)
+for card in tqdm(flash_cards,desc="Adding Cards",unit="card"):
+    add_flashcard(deck_name, card.question, card.answer)
+
+
+
+# for card in flashcard_dict:
+#     add_flashcard(deck_name, card["question"], card["answer"])
+
