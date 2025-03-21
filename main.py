@@ -3,9 +3,11 @@ from scripts.anki import add_flashcard, invoke
 from scripts.card import load_flashcards
 from tqdm import tqdm
 import tkinter as tk
-from tkinter import filedialog
+from tkinter import filedialog, ttk, messagebox
 from scripts.pdf import pdf_to_text
+import threading
 
+stop = False
 
 def choose_pdf():
     """Opens a file dialog to choose a PDF file."""
@@ -58,25 +60,47 @@ def submit_action():
         print("Error: Converted text file not found.")
         return
 
+    # Reset Progress bar
+    # pb["value"] = 0
+    # update_progress_lael(0)b
+
     # Generate flashcards using Gemini (or AI model)
     flashcard_string = prompt(data)
     flashcard_dict = organize_flashcards(flashcard_string)
 
+    # Get the deck name from input field then create deck
+    deck_name = deck_namer.get(1.0, "end-1c")
+    invoke('createDeck', deck=deck_name)
+
     # Load and add flashcards
     flash_cards = load_flashcards(flashcard_dict)
+    percent_increase = 100/len(flashcard_dict.keys())
+    sum = 0
     for card in tqdm(flash_cards,desc="Adding Cards",unit="card"):
         add_flashcard(deck_name, card.question, card.answer)
-
+        # sum+= percent_increase
+        # update_progress_label(sum)
+        # if pb["value"] < 100:
+            
+    messagebox.showinfo(message='Deck Created')
     print("Flashcards added successfully!")
 
+def stop():
+    stop = True
 
-deck_name = input("Please enter the name of your deck: (Deck 1) ") or "Deck 1"
-invoke('createDeck', deck=deck_name)
+def update_progress_label(sum):
+    return f"Current Progress: {sum}%"
 
 # Create the main window
 root = tk.Tk()
-root.title("AnkiMate by Marg7ny")
+root.title("AnkiMate")
+root.minsize(width=500,height=200)
 
+# Create an input field to enter deck name
+deckname_label = tk.Label(root, text="Enter deck name", wraplength=400)
+deckname_label.pack()
+deck_namer = tk.Text(root, height=1, width=20)
+deck_namer.pack()
 # Create a button to choose the PDF
 choose_button = tk.Button(root, text="Choose PDF", command=choose_pdf)
 choose_button.pack(pady=10)
@@ -88,6 +112,17 @@ filename_label.pack()
 # Submit button
 submit_button = tk.Button(root, text="Submit", command=submit_action)
 submit_button.pack(pady=10)
+
+# Cancel button
+cancel_button = tk.Button(root, text= "Cancel", command=stop)
+cancel_button.pack()
+# Progress bar
+# pb = ttk.Progressbar(root, orient='horizontal', mode='determinate', length=200)
+# pb.pack()
+# percentage_label = tk.Label(root, text=update_progress_label(0))
+# percentage_label.pack()
+
+
 
 # Start the Tkinter event loop
 root.mainloop()

@@ -1,7 +1,7 @@
 import json
 import requests
 import urllib.request
-
+# from main import pb
 
 # AnkiConnect API URL
 ANKI_CONNECT_URL = "http://localhost:8765"
@@ -34,6 +34,7 @@ def add_flashcard(deck_name, question, answer):
         print(f"Error adding card: {result['error']}")
     else:
         print(f"Card added successfully: {result}")
+        
 
 # Example Usage
 deck_name = "Ahmed_Mohsen"  # Change to your desired deck

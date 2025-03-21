@@ -1,208 +1,236 @@
 UNR 1601
 Climate Change and Water Management
-Ch [00] –Introduction
+Ch [02] –Climate Change
 Dr. Ayman Mohamed Hamza
 Construction & Building Engineering Department, Faculty of Engineering and Technology, 
 AASTMT, Cairo Campus
 Arab Academy for Science, Technology, and Maritime Transport (AASTMT) 
 Cairo Campus
 College of Computing and Information
-General Information
-•Course Code   : UNR 1601
-•Course Title    : Climate Change and Water Management
-•Semester         : 1&3
-•Contact Hours : 2 hrs(Lecture Only)
-•Lecturers:
-Dr. Ayman M.  Hamzh (Room 103 Bldg. B & 319 Bldg. A; 
-hamzarona@adj.aast.edu )
-2Introduction
-The course p resents a broad overview of the science of global 
-warming . Includes the causes , evidence , and societal and 
-environmental impacts from the last century. Furthermore, it 
-covers key topics of intergraded water resources managements 
-(IWRM).
+Climate Variability
+•Climate variability refers tovariations inthe mean state and
+other statistics (such astheoccurrence ofextremes, etc.)ofthe
+climate onalltemporal and spatial scales beyond that of
+individual weather events .
+•Variability may bedue to
+(internal variability ):natural internal processes within theclimate
+system
+orto(external variability ):variations innatural oranthropogenic
+external forcing
+2What is climate change?
+•Climate change is
+achange inthepattern ofweather ,
+and related changes inoceans, land
+surfaces and icesheets, that have come to
+define Earth’slocal, regional and global
+climates and occurring over time scales of
+decades orlonger .
 3
-Course Objective
-The goal ofthis course istoprovide students ofanydiscipline with
-the fundamentals ofclimate change, the key fundamentals of
-integrated water resources management aswell asopportunities
-todevelop sustainable resilient communities .
+Energy Balance
+The temperature ofthe Earth isdetermined byabalance ofthe energy
+entering the Earth–atmosphere system and the energy leaving the
+system .
+Global energy balance (GEB):
+Earth's stored energy =
+Energy the earth receives from the Sun -Energy the earth 
+releases to space .
+4
+The greenhouse effect
+Greenhouse gases in the
+atmosphere, including water
+vapour ,carbon dioxide ,methane ,
+and nitrous oxide ,absorb heat
+energy and emit itinalldirections
+(including downwards), keeping
+Earth’s surface and lower
+atmosphere warm .
+Adding more greenhouse gases to
+the atmosphere enhances the
+effect, making Earth’ssurface and
+lower atmosphere even warmer .
 5
-Learning outcomes
-Through adeeply interdisciplinary approach and with anemphasis on
-fostering effective communication skills ,successful students inthis
-course will:
-•Demonstrate understanding of key elements of the climate system, 
-and how these elements are being altered by the human emission of 
-greenhouse gases . 
-•Carefully consider the impacts of climate change on both human and 
-natural systems.
-•Articulate the difference between climate change adaptation and 
-mitigation.
-•Understand the key fundamentals of water resources management.
-7Climate 
-Change and 
-Water 
-Management
+Climate Forcing
+•Any process oractivity that influences theGEP either by
+increasing ordecreasing theearth’sstored energy contributes
+toclimate change andisqualified tobecalled aclimate forcing
+process .
+6•Climate forcing asanimbalance
+inenergy atthetopoftheEarth's
+atmosphere either externally or
+byhuman activities .
+Climate Forcing
+Climate forcing processes are classified as:
+•Internal Climate Forcing Processes -processes
+operating ontheGEB from within theearth .
+•External Climate Forcing Processes -processes
+operating ontheGEB from outside theearth .
+7
+Climate Change
 Climate 
-Science
-Meteorology
-Environmental 
-Science
-Engineering
-9Topics covered throughout the course
-•Climate change, itsdrivers and impacts ,
-•Climate change mitigation and adaptation ,
-•Climate change vulnerability and riskassessment ,
-•Water and climate change–current challenges,
-•Introduction towater resources management and international frameworks forIWRM,
-•Water supply and distribution ,sources ofwater and minimizing water loss,
-•Water scarcity ,-predictions and preparedness,
-•Safe wastewater reuse ,treatment and recycling, projections offuture climate change
-impacts onthewater cycle,
-•Strategy development and planning for adaptation, technologies for addressing
-adaptation challenges, climate change impacts on agriculture and draught risk
-management,
-•Conflicts issues inwater resources management and water rights .
-10Subject weekly schedule
-•WEEK [ 1]   : CH [ 00] Course Information and Introduction
-•WEEK [ 2]   : CH [ 01] Earth Climate 
-•WEEK [ 3]   : CH [ 02] Climate change: evidence, drivers and impact + Quiz
-•WEEK [ 4]   : Poster Presentation
-•WEEK [ 5]   : CH [ 03] Pollutant and man -made impact + Quiz
-•WEEK [ 6]   : CH [ 04] Environmental mass balance + Quiz
-•WEEK [ 7]   : 7thWeek Exam
-•WEEK [ 8]   : CH [ 05] Climate change adaptation and mitigation and EIA
-•WEEK [ 9]   : CH [ 06] Natural resources 
-11Subject weekly schedule
-•WEEK [ 10] : CH[ 07] Water supply, reuse and scarcity + Quiz
-•WEEK [ 11] : Student Presentations
-•WEEK [ 12] : Student Presentations + Quiz
-•WEEK [ 13] : CH[ 08] Population and environment
-•WEEK [ 14] : CH[ 09] IWRM and water rights and conflicts issues
-•WEEK [ 15] : Problem Solving Session
-•WEEK [ 16] : Final Exam
-12Assessment
-7th
-Week12th
-WeekPrefinalFinal
-1330201040
-Total = 100Grading Strategy
-14Assessment % Exam Quiz Att.Presentation
-/PosterPrefinal 
-Project
-7thWeek 30 15 10 - 5 -
-12thWeek 20 - 10 - 10 -
-Prefinal 10 - - 5 - 5
-Final Examination 40 40 - - - -
-Total 100 55 20 5 15 5Poster
-Student groups of2-3have tosearch, prepare and present one
-poster tobe
-presented inthe 4thweek covering one topic
-showing anenvironmental problem locally orworldwide along
-with theproposed solutions and actions .
-Poster shall be prepared using Foam Board size A 2.
-15Student Presentation
-Students (ingroups of3)have tosearch, prepare and present one
-presentation during the 11thand 12thweek covering one ofthe
-following topics :
-•Sustainability .
-•Green Buildings (Materials /Code /Simulating programs /Life cycle
-assessment) .
-•Nuclear power plants impact onenvironment .
-•Industrial pollution impact onenvironment .
-•Carbon footprint .
-•Carbon Dioxide Capture and Storage .
-16
-Prefinal Report
-Each student has to prepare an original report of at least 800 
-words reviewing one of the following topics:
-•Sea level rise impact on Egypt.
-•Flash floods impact on Egypt.
-•Climate change solutions.
-•Climate change impacts on agriculture.
-•Climate change impact on public health.
-•Extreme weather events duration, intensity and frequency.
-17General Rules
-•
-Attend before lecture starts.
-•Always attend in your 
- registered lecture.
-•Homework assignments are due to 
- one week only.
-•Cheating is strongly prohibited and 
- punished. 
-•Exceeding 20% absences expose you to forced 
- withdrawal.
-1819
-Let
-’
-s start!
-Good luck!Units of Measurement
-The units ofmeasurement are the units that are used to
-represent physical quantities like length, mass, temperature,
-current, area, volume, intensity, etc.
-Number :
-20Quant. Prefix Symbol Quant. Prefix Symbol
-10-15femto f 102hecto h
-10-12pico p 103kilo k
-10-9nano n 106mega M
-10-6micro µ 109giga G
-10-3milli m 1012tera T
-10-2centi c
-10-1deci dUnits of Measurement
-Time :
-21Units of Measurement Conversion
-Second ( s) 1 s = 1/60 min
-Minute ( min) 1 min = 60 s
-Hour ( hr) 1 hr = 60 min = 3600 s
-Day 1 day = 24 hr
-Week 1 week = 7 days
-Month 1 month = 4 weeks
-Year 1 year = 12 monthsUnits of Measurement
-Length isaphysical quantity that gives themeasure ofhow long
-anobject is.
-22System Units of Measurement Conversion
-MetricCentimeter (cm)1 cm = 10 mm
-Meter (m) 1 m = 100 cm
-Kilometer (km) 1 km = 1000 m
-Millimeter (mm) 1 mm = 0.001 m
-ImperialFoot (feet) 1 foot = 12 inch
-Inches (inch) 1 inch = 0.83333 feet
-Mile 1 mile = 5280 feet
-Yard 1 yard = 3 feet = 36 inchUnits of Measurement
-Mass isaphysical quantity that tells how heavy orlight anobject
-is.Itisalso commonly called theweight oftheobject .
-23System Units of Measurement Conversion
-MetricMilligram ( mg) 1 mg = 0.001 g
-Gram ( g) 1 g = 1000 mg
-Kilogram ( kg) 1 kg = 1000 g
-ImperialOunce ( oz) 1 oz = 0.0625 lb
-Pound ( lb) 1lb = 16 oz
-Ton 1 ton = 2000 lbsUnits of Measurement
-Volume :also known asthecapacity, gives theamount ofspace
-that anobject occupies orthemaximum space theobject has.
-24System Units of Measurement Conversion
-MetricMilliliter ( ml) 1 m = 0.001 l
-Litre ( l) 1 l = 1000 ml
-Kilolitre ( kl) 1 kl = 1000 l
-Cubic Centimeter ( cm3) 1 l = 1000 cm3
-ImperialFluid ounce ( fl. oz.) 1 fl. oz. = 1/20 pt
-Gallon ( gal) 1gal = 128 fl. oz.
-Pint ( pt) 1 pt= 16 fl. oz.Units of Measurement
-Temperature isaphysical quantity that describes how hot or
-cold anobject ortheweather is.Wehave mainly three units of
-measurement oftemperature, Celsius, Kelvin, and Fahrenheit .
-25Units of Measurement Conversion
-Celsius ( C) 0°C = 273.15 K = 32°F
-Kelvin ( K) 0 K = -273. 15°C = -459.57°F
-Fahrenheit ( F) 0°F = -17.778°C =255.372 KUnits of Measurement
-Other quantities commonly used inchemistry, and which have
-special names fortheunits derived from these basic units are:
-26Units of 
-MeasurementPrefix Unit
-Frequency Hertz (Hz) 𝑠−1
-Energy Joule (J) Kg 𝑚2𝑠−2
-Pressure Pascal (pa) Kg 𝑚−1𝑠−2= N 𝑚−2
-Power watt (W) Kg 𝑚2𝑠−3= J 𝑠−1
+Change
+Anthropogenic 
+causes Natural cause You can edit this text
+EarthYou can edit this text
+Global temperatureThe internal and external climate forcing processes except theman-made
+processes aregrouped together asnatural causes ofclimate change .
+8External Climate Forcing Processes
+1-Variations in the amount of energy received from the sun .
+2-Variations in the earth’s orbit around the sun .
+9
+Internal Climate Forcing Processes
+1. Oceans
+2. Continental Drift
+3. Atmosphere
+4. Water Cycle
+5. Clouds
+6. Ice and Snow
+7. Land Surfaces
+8. V olcanic Eruptions
+9. Human Causes
+10Internal Climate Forcing Processes
+1. Oceans
+•Oceans are the key source of moisture in the air through interactions with 
+the atmosphere. 
+•Oceans also store heat efficiently , transporting it thousands of miles thus 
+redistributing heat in time and space . 
+•The oceans and marine life also consume huge amounts of carbon dioxide . 
+These ocean -based processes exert tremendous influence on global climate 
+and accounts for the variations.
+11
+Internal Climate Forcing Processes
+2. Continental Drift
+Scientists believe thatourearth isstillslowly drifting andconstantly changing .
+This constant drifting isbelieve tohave impact ontheclimate because itchanges
+thephysical features ofthelandmass ,their position andtheposition ofwater
+bodies .
+The separation ofthelandmasses changed theflow ofocean currents and
+winds, which affects theclimate .
+12
+Internal Climate Forcing Processes
+3. Atmosphere
+•Theatmosphere stores alotofheat orenergy which comes from thesun.This
+energy regulates theearth's climate .
+•Theatmosphere composes ofsmall particles and several gases outofwhich are
+thegreen house gases (GHGs) thatstore heat.The small particles (aerosols)
+tend toblock sunlight reaching theearth .
+4. Water Cycle
+•Higher air temperatures can increase water evaporation and melting of ice .
+•Water vapour is the most potent greenhouse gas .
+•Clouds also affect evaporation, creating a cooling effect .
+13Internal Climate Forcing Processes
+5. Clouds
+•Clouds reflect solar energy (cooling the earth) and thereby trapping heat 
+being radiated up from the surface (warming the earth). 
+•Clouds variability contribute to climate change.
+6. Ice and Snow
+•The whiteness of ice and snow reflects heat out , cooling the planet. 
+•When ice melts into the sea , this drives heat from the ocean causing 
+variability in climate .
+14Internal Climate Forcing Processes
+7. Land Surfaces
+•Mountain ranges can block clouds , creating "dry" shadows downwind.
+•Sloping land allows more water runoff , leaving the land and air drier. 
+•A tropical forest will soak up carbon dioxide , but once cleared for cattle 
+ranching, the same land becomes a source of methane, a greenhouse gas.
+8. Volcanic Eruptions
+•Avolcanic eruption emits large volumes ofsulphur dioxide (SO2),water
+vapour ,dust, andashintotheatmosphere thatinfluence climatic patterns for
+years .The gases anddust particles partially block theincoming rays ofthe
+sun, leading tocooling .
+15
+This is a sample text. 
+Insert your desired text 
+here. Greenhouse gasesThis is a sample text. Insert 
+your desired text here. Air pollution
+This is a sample text. Insert 
+your desired text here. DeforestationCoal mining
+Industrial processesInternal Climate Forcing Processes
+9. Anthropogenic or human causes
+16Main indicators of climate change ( 10 )
+17
+Evidence of Climate Change
+Climate records show a warming trend .
+18
+•Earth’sglobal average surface
+temperature hasrisen ,asshown
+inthis plot ofcombined land and
+ocean measurements from 1850 to
+2019 derived from three
+independent analyses of the
+available data sets.
+•The temperature changes are 
+relative to the global average 
+surface temperature, averaged 
+from 1961−1990 .Evidence of Climate Change
+Climate records show a warming trend.
+19The climate system varies naturally from year toyear and from decade todecade .Tomake reliable
+inferences about human -induced climate change, multi -decadal and longer records are typically used .
+Calculating a“running average”over these longer timescales allows one tomore easily seelong -term trends .
+Fortheglobal average temperature fortheperiod 1850 -2019 (using thedata from theUKMet Office Hadley
+Centre relative tothe 1961 -90average) the plots show (top) the average and range ofuncertainty for
+annually averaged data ;(2ndplot) theannual average temperature forthetenyears centred onany given
+date ;(3rdplot) theequivalent picture for30-year ;and (4thplot) the60-year averages .
+Evidence of Climate Change
+•This warming isnot caused by
+theincrease insolar irradiance .
+20Evidence of Climate Change
+21
+Additional evidence of a warming trend can be 
+found in the dramatic decrease in the extent of 
+Arctic sea ice at its summer minimum (which 
+occurs in September), the decrease in June 
+snow cover in the Northern Hemisphere.Evidence of Climate Change
+Observations show that theglobal average sealevel hasrisen byabout 16cm
+since thelate 19thcentury .
+•Sea level isrising faster inrecent decades ;measurements from tide gauges (blue)
+and satellites (red) indicate that thebest estimate fortheaverage sealevel rise over
+thelastdecade iscentred on3.6mm peryear.
+22
+•The shaded area represents the sea
+level uncertainty, which has
+decreased asthe number ofgauge
+sites used incalculating the global
+averages and the number ofdata
+points have increasedEvidence of Climate Change
+23
+•Measurements ofatmospheric CO2since
+1958 from the Mauna Loa Observatory in
+Hawaii (black) and from theSouth Pole (red)
+show asteady annual increase in
+atmospheric CO2concentration .
+•The measurements are made atremote
+places likethese because they arenotgreatly
+influenced bylocal processes, sotherefore
+they are representative ofthe background
+atmosphere .
+•The small up-and-down saw-tooth pattern
+reflects seasonal changes inthe release and
+uptake ofCO2byplants .Evidence of Climate Change
+24Ocean Acidification
+AsCO2intheairhasincreased ,
+there has been anincrease in
+theCO2content ofthesurface
+ocean (upper box),and a
+decrease inthe seawater pH
+(lower box).
+Evidence of Climate Change
+Paleoclimatology data from natural sources like ice cores , tree rings , 
+corals , ocean and lake sediments that have enabled scientists to extend 
+the earth ’s climatic records back millions of years . 
+25
+Evidence of Climate Change
+26
+Consequences of climate change
+Changes in
+•Glaciers and ice sheets
+•Sea level change
+•Sea ice
+•Heavy rainfall across the globe
+•Extreme Drought
+•Decline in Crop productivity
+•Changes in ecosystems
+•Hurricanes
+•Rise in temperature
+•Acidification of seawater
+2728
 Thank You !
